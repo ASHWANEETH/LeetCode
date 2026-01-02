@@ -13,11 +13,6 @@ class Solution {
 
         return Math.min(prev1,prev2);
 
-
-
-
-
-
         // int dp[] = new int[n+1];
         // dp[0] = cost[0];
         // dp[1] = cost[1];
