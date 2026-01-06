@@ -6,7 +6,7 @@ class Solution {
             heap.offer(x);
             if(heap.size()>k) heap.poll();
         }
-        return heap.poll();
+        return heap.peek();
 
 
 
