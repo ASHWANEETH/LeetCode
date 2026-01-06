@@ -1,6 +1,7 @@
 class Solution {
     public int findKthLargest(int[] nums, int k) {
         
+        //Min heap ----------------
         Queue<Integer> heap = new PriorityQueue<>();
         for(int x:nums){
             heap.offer(x);
@@ -8,7 +9,7 @@ class Solution {
         }
         return heap.peek();
 
-        //If range is small and given
+        //If range is small and given---------------
         // int freq[] = new int[20001];
         // for(int x:nums){
         //     freq[10000+x]++;
@@ -21,6 +22,7 @@ class Solution {
         // return i-10000;
 
 
+        //Ouick select-------------------
         // int l = 0;
         // int r = nums.length-1;
 
