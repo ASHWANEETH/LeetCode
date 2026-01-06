@@ -8,8 +8,6 @@ class Solution {
         }
         return heap.peek();
 
-
-
         //If range is small and given
         // int freq[] = new int[20001];
         // for(int x:nums){
