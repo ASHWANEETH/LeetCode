@@ -3,7 +3,11 @@ class Solution {
         int n = nums.length;
         k = k%n;
         reverse(nums,0,n-k-1);
+        // reverse(nums,0,k-1) left rotate
+
         reverse(nums,n-k,n-1);
+        // reverse(nums,k,n-1); left rotate
+
         reverse(nums,0,n-1);
 
     }
