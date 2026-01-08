@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ASHWANEETH/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/ASHWANEETH/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHWANEETH/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWANEETH/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
