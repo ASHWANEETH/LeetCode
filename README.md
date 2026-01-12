@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ASHWANEETH/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/ASHWANEETH/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ASHWANEETH/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ASHWANEETH/LeetCode/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ASHWANEETH/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ASHWANEETH/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ASHWANEETH/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ASHWANEETH/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWANEETH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ASHWANEETH/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ASHWANEETH/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/ASHWANEETH/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWANEETH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ASHWANEETH/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ASHWANEETH/LeetCode/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
