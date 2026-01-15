@@ -7,6 +7,7 @@ class Solution {
         while(r>=0){
             nums1[x--] = l>=0 && (nums1[l]>nums2[r]) ? nums1[l--] : nums2[r--];
         }
+        
         // for(int i = 0;i<nums2.length;i++){
         //     nums1[i+m]=nums2[i];
         // }
