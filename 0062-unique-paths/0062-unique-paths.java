@@ -1,7 +1,7 @@
 class Solution {
     public int uniquePaths(int m, int n) {
         int r = m+n-2;
-        int c = Math.min(m-1,n-1);
+        int c = Math.min(m-1,n-1); //overflow risk
 
         long ans = 1;
         for(int i=0;i<c;i++){
