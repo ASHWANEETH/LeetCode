@@ -22,7 +22,7 @@ class Solution {
     public int helper(TreeNode node,int[] s){
         if(node == null)return 0;
 
-        int ls = Math.max(0,helper(node.left,s));
+        int ls = Math.max(0,helper(node.left,s)); //ignore -ve values
         int rs = Math.max(0,helper(node.right,s));
 
         s[0] = Math.max(s[0],node.val+ls+rs);
