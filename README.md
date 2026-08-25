@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ASHWANEETH/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ASHWANEETH/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ASHWANEETH/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ASHWANEETH/LeetCode/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/ASHWANEETH/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHWANEETH/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ASHWANEETH/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ASHWANEETH/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/ASHWANEETH/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ASHWANEETH/LeetCode/tree/master/0706-design-hashmap) |
 | [0854-k-similar-strings](https://github.com/ASHWANEETH/LeetCode/tree/master/0854-k-similar-strings) |
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ASHWANEETH/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ASHWANEETH/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/ASHWANEETH/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ASHWANEETH/LeetCode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -293,8 +296,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ASHWANEETH/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ASHWANEETH/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ASHWANEETH/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ASHWANEETH/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
