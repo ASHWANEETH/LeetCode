@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ASHWANEETH/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ASHWANEETH/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ASHWANEETH/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0765-couples-holding-hands](https://github.com/ASHWANEETH/LeetCode/tree/master/0765-couples-holding-hands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,9 +250,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ASHWANEETH/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASHWANEETH/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0765-couples-holding-hands](https://github.com/ASHWANEETH/LeetCode/tree/master/0765-couples-holding-hands) |
 ## Greedy
 |  |
 | ------- |
+| [0765-couples-holding-hands](https://github.com/ASHWANEETH/LeetCode/tree/master/0765-couples-holding-hands) |
 | [1903-largest-odd-number-in-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Pigeonhole Principle
 |  |
@@ -261,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/ASHWANEETH/LeetCode/tree/master/0765-couples-holding-hands) |
+## Graph Theory
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/ASHWANEETH/LeetCode/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
