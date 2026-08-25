@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHWANEETH/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ASHWANEETH/LeetCode/tree/master/0645-set-mismatch) |
+| [0854-k-similar-strings](https://github.com/ASHWANEETH/LeetCode/tree/master/0854-k-similar-strings) |
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ASHWANEETH/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ASHWANEETH/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ASHWANEETH/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0854-k-similar-strings](https://github.com/ASHWANEETH/LeetCode/tree/master/0854-k-similar-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/ASHWANEETH/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ASHWANEETH/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASHWANEETH/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0765-couples-holding-hands](https://github.com/ASHWANEETH/LeetCode/tree/master/0765-couples-holding-hands) |
+| [0854-k-similar-strings](https://github.com/ASHWANEETH/LeetCode/tree/master/0854-k-similar-strings) |
 ## Greedy
 |  |
 | ------- |
