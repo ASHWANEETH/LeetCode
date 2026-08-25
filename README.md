@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHWANEETH/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWANEETH/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ASHWANEETH/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ASHWANEETH/LeetCode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ASHWANEETH/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union Find
 |  |
 | ------- |
