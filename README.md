@@ -101,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ASHWANEETH/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ASHWANEETH/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASHWANEETH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ASHWANEETH/LeetCode/tree/master/0076-minimum-window-substring) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ASHWANEETH/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
 | ------- |
