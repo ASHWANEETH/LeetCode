@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ASHWANEETH/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ASHWANEETH/LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/ASHWANEETH/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ASHWANEETH/LeetCode/tree/master/0645-set-mismatch) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ASHWANEETH/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ASHWANEETH/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
