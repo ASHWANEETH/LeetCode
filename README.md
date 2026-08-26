@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ASHWANEETH/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ASHWANEETH/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWANEETH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ASHWANEETH/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ASHWANEETH/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ASHWANEETH/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ASHWANEETH/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0854-k-similar-strings](https://github.com/ASHWANEETH/LeetCode/tree/master/0854-k-similar-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/ASHWANEETH/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/ASHWANEETH/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ASHWANEETH/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0645-set-mismatch](https://github.com/ASHWANEETH/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
