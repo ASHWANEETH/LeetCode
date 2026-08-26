@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ASHWANEETH/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/ASHWANEETH/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ASHWANEETH/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ASHWANEETH/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/ASHWANEETH/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ASHWANEETH/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ASHWANEETH/LeetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/ASHWANEETH/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
