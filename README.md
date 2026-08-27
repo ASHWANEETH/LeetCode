@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ASHWANEETH/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0509-fibonacci-number) |
+| [0887-super-egg-drop](https://github.com/ASHWANEETH/LeetCode/tree/master/0887-super-egg-drop) |
 | [1903-largest-odd-number-in-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWANEETH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ASHWANEETH/LeetCode/tree/master/0704-binary-search) |
+| [0887-super-egg-drop](https://github.com/ASHWANEETH/LeetCode/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASHWANEETH/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ASHWANEETH/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/ASHWANEETH/LeetCode/tree/master/0887-super-egg-drop) |
 ## Recursion
 |  |
 | ------- |
