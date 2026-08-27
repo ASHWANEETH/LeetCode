@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ASHWANEETH/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ASHWANEETH/LeetCode/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/ASHWANEETH/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/ASHWANEETH/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHWANEETH/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWANEETH/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASHWANEETH/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ASHWANEETH/LeetCode/tree/master/0076-minimum-window-substring) |
+| [1004-max-consecutive-ones-iii](https://github.com/ASHWANEETH/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ASHWANEETH/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWANEETH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ASHWANEETH/LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/ASHWANEETH/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ASHWANEETH/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ASHWANEETH/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/ASHWANEETH/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
