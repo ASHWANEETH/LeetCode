@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ASHWANEETH/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ASHWANEETH/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ASHWANEETH/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ASHWANEETH/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ASHWANEETH/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ASHWANEETH/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Union Find
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ASHWANEETH/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ASHWANEETH/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ASHWANEETH/LeetCode/tree/master/0704-binary-search) |
+| [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -317,8 +320,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/ASHWANEETH/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ASHWANEETH/LeetCode/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ASHWANEETH/LeetCode/tree/master/0089-gray-code) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ASHWANEETH/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
